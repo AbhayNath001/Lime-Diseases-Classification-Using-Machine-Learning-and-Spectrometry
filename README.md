@@ -8,5 +8,5 @@ This dataset was meticulously created at the Charotar University of Science and 
 The dataset consists of six distinct datasets: Datasets 1 to 4 contain data from diseased lime leaves, while Datasets 5 and 6 contain data from normal lime leaves.
 </h3>
 <h3>
-For further information contact me on, LinkedIn: https://www.linkedin.com/in/abhaynath001 Email: dr.abhaynath001@gmail.com
+For further information contact me on, LinkedIn: <a href="https://www.linkedin.com/in/abhaynath001">https://www.linkedin.com/in/abhaynath001</a> Email: <a href="mailto:dr.abhaynath001@gmail.com">dr.abhaynath001@gmail.com</a>
 </h3>
